@@ -1,0 +1,4 @@
+Sitemap: https://kampffrosch94.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: kampffrosch94.github.io
