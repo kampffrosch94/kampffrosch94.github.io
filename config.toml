@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[module]
+  [[module.imports]]
+    path = "github.com/AmazingRise/hugo-theme-diary"
+
+[markup.goldmark.renderer]
+  unsafe = true
