@@ -165,11 +165,17 @@ We have arrived in the here and now. I think this is a good spot to spout some i
   A real pet peeve of mine is retention rate. Every time someone joins the discord and asks "I only have 85% retention rate on jpdb and not 99.9% like on anki, should I shorten my interval?" I roll my eyes so much they threaten to screw out of my skull. It's a real health hazard, I tell you. I have spent months on 50% retention rate and still made big gains. If you really have to track and compare something to other people, track immersion. That will at least lead you down a productive road.
 - Immerse in something you like. Don't force yourself through boring stuff because you "should". You should immerse more! Enjoyment leads to immersing more, to focus, to forming connections in your brain and thus to learning. And it prevents burnout. All the big immersion chads I know like what they are immersing in, no exceptions.
 - Digital manga with mokuro is what I'd recommend for beginners. Easy manga do contain actually good stories unlike other media (this is of course subjective, if you like moe or sol you'll have an easy time anywhere). Even with the abysmal reading speed of a beginner you can actually get somewhere in the story in a reasonable amount of time.
+- Don't develop your own tools if your goal is to learn Japanese. A better, more efficient tool will be worth it ... for other people. But not for yourself. You can do an absolute ton of sub optimal, manual work before you reach the equivalent of the work put into developing, maintaining and supporting a new tool. Giving back to the community, practicing programming, making a product to sell or even just doing it for fun are all valid reasons to do it anyways. Just be warned that it /won't/ speed up your own progress with Japanese.
+- Consistency is nice, but not a requirement. I see a lot of beginners trying to force themselves to do a certain arbitrarily chosen number of new cards. This often leads to questions like "How can I do my new cards before I do my reviews?"
+  Of course there are ways to do that but I'd argue that adding new cards if you can't even do your reviews just increases your problems later.
+  You don't have to force yourself to hold the same pace every day. Just keep at it, do however much you feel like and your schedule allows. Adding 500 cards over 3 days and then none for the next 3 weeks is perfectly valid. You only have to watch out that these cards are not too hard for you.
+  SRS is best used for retaining knowledge, not acquiring it. This is also one of the reasons why I have switched to a mining only workflow.
 
 ** conclusion
 
 After spending a year of consistent study my comprehension abilities have increased manyfold.
 I have now seen 412 episodes of anime, read 69 volumes of manga, 3 short VNs and a single book.
+I have already reached my initial goal of getting to a stage where I can learn Japanese mostly from immersion. Of course I will continue to do so in the future. The journey is the reward and all that.
 
 I know from experience that I would have not made it this far using other tools than jpdb for my vocab study, so I am really grateful.
 
@@ -177,3 +183,52 @@ That is all I have to say. I hope you too will see success on your language lear
 
 #+caption: known vocab count on jpdb (not including redundant vocab)
 [[/images/vocab_over_time_2023-03-25.png]]
+
+
+
+* TODO tools for learning Japanese                                :@japanese:
+:PROPERTIES:
+:EXPORT_FILE_NAME: japanese-tooling
+:END:
+Sometimes it feels like at least half the people learning Japanese are comp sci students or
+programmers.
+Given that I am one of those myself I know what it feels like when has an idea for a project
+that will help them study japanese so much more efficiently.
+Just a couple hours of work and efficiency will increase. It will be worth it.
+Spoiler: It will be worth it for other people. But the efficiency increase will not make
+up the time spent working on the tool for you personally, unless the tool is trivial to build.
+
+It is a better idea to use tools built by other people and adapt them to your use case if possible
+or to just live with not everything being perfect.
+
+Here is a list of tools I have used/or use and like. Tools that don't meet these two criteria are omitted.
+
+** [[https://addons.mozilla.org/en-US/firefox/addon/yomichan/][yomichan]]
+An in browser popup dictionary for Japanese.
+
+** [[https:jpdb.io][jpdb]]
+Its like a better anki for Japanese vocab with all the batteries already included. Highly recommended.
+
+*** jpdb mpv plugin
+Usable for patreons only. Makes mining sentences from video a breeze.
+
+*** [[https://github.com/max-kamps/jpdb-browser-reader][jpdb-browser-reader]]
+A browser based popup dictionary that very deeply integrates with jpdb. Still has some open todo's but
+its looking very promising.
+
+*** [[https://github.com/kampffrosch94/jpdb-connect][jpdb-connect]]
+Built by me. Allows you to mine sentences into jpdb from yomichan and JL.
+Will probably be largely super seeded by the various jpdb reader variants that people are developing right now.
+
+** [[https://github.com/kha-white/mokuro][mokuro]]
+/The/ tool for OCRing manga. Acquiring manga as offline images can be annoying but its worth it for this.
+
+** VN Setup
+*** [[https://github.com/rampaa/JL][JL]]
+An awesome popup dictionary made with VNs in mind. Can be laid over the text box of a VN and used instead.
+
+*** [[https://github.com/Artikash/Textractor][Textractor]]
+Gets the text out of VNs for usage with JL. Worked with any VN I have tried so far.
+
+*** [[https://github.com/Blinue/Magpie/blob/main/README_EN.md][Magpie]]
+Scales up low res VNs (or anything really). Works pretty well.
