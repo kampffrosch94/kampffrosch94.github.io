@@ -186,7 +186,7 @@ We have arrived in the here and now. I think this is a good spot to spout some i
 -   Immerse in something you like. Don't force yourself through boring stuff because you "should". You should immerse more! Enjoyment leads to immersing more, to focus, to forming connections in your brain and thus to learning. And it prevents burnout. All the big immersion chads I know like what they are immersing in, no exceptions.
 -   Digital manga with mokuro is what I'd recommend for beginners. Easy manga do contain actually good stories unlike other media (this is of course subjective, if you like moe or sol you'll have an easy time anywhere). Even with the abysmal reading speed of a beginner you can actually get somewhere in the story in a reasonable amount of time.
 -   Don't develop your own tools if your goal is to learn Japanese. A better, more efficient tool will be worth it ... for other people. But not for yourself. You can do an absolute ton of sub optimal, manual work before you reach the equivalent of the work put into developing, maintaining and supporting a new tool. Giving back to the community, practicing programming, making a product to sell or even just doing it for fun are all valid reasons to do it anyways. Just be warned that it _won't_ speed up your own progress with Japanese.
--   Consistency is nice, but not a requirement. I see a lot of beginners trying to force themselves to do certain arbitrarily chosen number of new cards. This often leads to questions like "How can I do my new cards before I do my reviews?"
+-   Consistency is nice, but not a requirement. I see a lot of beginners trying to force themselves to do a certain arbitrarily chosen number of new cards. This often leads to questions like "How can I do my new cards before I do my reviews?"
     Of course there are ways to do that but I'd argue that adding new cards if you can't even do your reviews just increases your problems later.
     You don't have to force yourself to hold the same pace every day. Just keep at it, do however much you feel like and your schedule allows. Adding 500 cards over 3 days and then none for the next 3 weeks is perfectly valid. You only have to watch out that these cards are not too hard for you.
     SRS is best used for retaining knowledge, not acquiring it. This is also one of the reasons why I have switched to a mining only workflow.
@@ -196,6 +196,7 @@ We have arrived in the here and now. I think this is a good spot to spout some i
 
 After spending a year of consistent study my comprehension abilities have increased manyfold.
 I have now seen 412 episodes of anime, read 69 volumes of manga, 3 short VNs and a single book.
+I have already reached my initial goal of getting to a stage where I can learn Japanese mostly from immersion. Of course I will continue to do so in the future. The journey is the reward and all that.
 
 I know from experience that I would have not made it this far using other tools than jpdb for my vocab study, so I am really grateful.
 
