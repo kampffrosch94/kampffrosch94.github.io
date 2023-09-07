@@ -1,6 +1,6 @@
 baseURL = 'https://kampffrosch94.github.io/'
 languageCode = 'en-us'
-title = 'Kampffrosch´s blog'
+title = "Kampffrosch's blog"
 
 [module]
   [[module.imports]]

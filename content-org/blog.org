@@ -186,49 +186,65 @@ That is all I have to say. I hope you too will see success on your language lear
 
 
 
-* TODO tools for learning Japanese                                :@japanese:
+* DONE tools for learning Japanese                                :@japanese:
+CLOSED: [2023-09-07 Thu 11:22]
 :PROPERTIES:
 :EXPORT_FILE_NAME: japanese-tooling
 :END:
 Sometimes it feels like at least half the people learning Japanese are comp sci students or
 programmers.
-Given that I am one of those myself I know what it feels like when has an idea for a project
+Given that I am one of those myself I know what it feels like when one has an idea for a project
 that will help them study japanese so much more efficiently.
-Just a couple hours of work and efficiency will increase. It will be worth it.
-Spoiler: It will be worth it for other people. But the efficiency increase will not make
+You may think: "Just a couple hours of work and efficiency will increase. It will be worth it."
+It will be worth it for other people. But the efficiency increase will not make
 up the time spent working on the tool for you personally, unless the tool is trivial to build.
 
-It is a better idea to use tools built by other people and adapt them to your use case if possible
-or to just live with not everything being perfect.
+It is a better idea to use tools built by other people and adapt them to your use case if possible.
+Or to just live with not everything being perfect.
 
-Here is a list of tools I have used/or use and like. Tools that don't meet these two criteria are omitted.
+Here is a list of tools I have used/use and like. Tools that don't meet these two criteria are omitted.
+The list only includes what I consider essential to know for the sake of brevity.
 
 ** [[https://addons.mozilla.org/en-US/firefox/addon/yomichan/][yomichan]]
 An in browser popup dictionary for Japanese.
+It can not only lookup vocab instantly, it also supports grammar dictionaries.
+Grab some from [[https://github.com/MarvNC/yomichan-dictionaries/][Marv's list]] if you feel so inclined.
+Since yomichan is EOL, its good to have an eye on its successor [[https://github.com/themoeway/yomitan][yomitan]] too.
 
 ** [[https:jpdb.io][jpdb]]
 Its like a better anki for Japanese vocab with all the batteries already included. Highly recommended.
 
 *** jpdb mpv plugin
-Usable for patreons only. Makes mining sentences from video a breeze.
+Its available for jpdb patreons only. Makes mining sentences from video a breeze.
+If you don't want to become a patreon or prefer anki [[https://ripose-jp.github.io/Memento/][memento]] is an alright alternative.
 
-*** [[https://github.com/max-kamps/jpdb-browser-reader][jpdb-browser-reader]]
-A browser based popup dictionary that very deeply integrates with jpdb. Still has some open todo's but
-its looking very promising.
+[[/images/mpv_plugin.png]]
 
-*** [[https://github.com/kampffrosch94/jpdb-connect][jpdb-connect]]
-Built by me. Allows you to mine sentences into jpdb from yomichan and JL.
-Will probably be largely super seeded by the various jpdb reader variants that people are developing right now.
+*** [[https://github.com/max-kamps/jpdb-browser-reader][jpd-breader]]
+:PROPERTIES:
+:ID:       76627237-8380-4223-ac11-f31cac2d861e
+:END:
+A browser based popup dictionary that very deeply integrates with jpdb.
+Grading while reading is possible.
+
+[[/images/breader.png]]
 
 ** [[https://github.com/kha-white/mokuro][mokuro]]
+:PROPERTIES:
+:ID:       f55217d0-983d-4781-beb7-2bcaca971b27
+:END:
 /The/ tool for OCRing manga. Acquiring manga as offline images can be annoying but its worth it for this.
+The breader has builtin support for it.
+
+[[/images/nagatoro.png]]
 
 ** VN Setup
 *** [[https://github.com/rampaa/JL][JL]]
-An awesome popup dictionary made with VNs in mind. Can be laid over the text box of a VN and used instead.
+An awesome popup dictionary made with VNs in mind. Can be laid over the text box of a VN and used instead. Can be used for mining with [[https://github.com/kampffrosch94/jpdb-connect][jpdb-connect]].
+Does work with magpie.
 
 *** [[https://github.com/Artikash/Textractor][Textractor]]
 Gets the text out of VNs for usage with JL. Worked with any VN I have tried so far.
 
 *** [[https://github.com/Blinue/Magpie/blob/main/README_EN.md][Magpie]]
-Scales up low res VNs (or anything really). Works pretty well.
+Scales up low res VNs (or anything really). Works pretty well. Also runs on potato hardware.
