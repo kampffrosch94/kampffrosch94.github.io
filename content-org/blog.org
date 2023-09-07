@@ -247,5 +247,5 @@ Does work with magpie.
 Gets the text out of VNs for usage with JL. Worked with any VN I have tried so far.
 If you use a [[https://github.com/laplus-sadness/lap-clipboard-inserter][clipboard inserter]] and a texthooker page like [[https://anacreondjt.gitlab.io/texthooker.html][this]] you can use yomichan/the breader with VNs.
 
-*** [[https://github.com/Blinue/Magpie/blob/main/README_EN.md][Magpie]]
+*** [[https://github.com/Blinue/Magpie][Magpie]]
 Scales up low res VNs (or anything really). Works pretty well. Also runs on potato hardware.
