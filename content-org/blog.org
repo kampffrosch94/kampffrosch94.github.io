@@ -249,3 +249,37 @@ If you use a [[https://github.com/laplus-sadness/lap-clipboard-inserter][clipboa
 
 *** [[https://github.com/Blinue/Magpie][Magpie]]
 Scales up low res VNs (or anything really). Works pretty well. Also runs on potato hardware.
+
+
+
+* DONE abandon your failures                                 :jpdb:@japanese:
+CLOSED: [2023-09-07 Thu 12:04]
+:PROPERTIES:
+:EXPORT_FILE_NAME: leeches
+:END:
+JPDB does not have an auto suspend feature for leeches like anki.
+
+If you are a patreon you can use a couple labs features together to approximate something similar.
+
+I reckon this is not useful for total beginners.
+For me it reduces my review load substantially.
+
+** Setup
+In [[https://jpdb.io/labs/settings][Labs Settings]]:
+Activate "show failed cards last" and "cycle through failed cards before showing them again".
+
+** Review
+Review as you normally do. At some point you will only have failed cards left. Go through these once or twice (this is why we enabled cycling).
+
+** Abandon
+At this point you only have failed cards left that didn't manage to stick after a couple repeats. In other words leeches.
+
+Go to the lab settings again and activate "override default failed carded cooldown period". Set it to something low like 2 seconds.
+
+Now all your failed cards should be due instantly. Hit [[https://jpdb.io/labs/abandon-due-and-failed][abandon]] and they are gone from your rotation until you add them again.
+
+** Closing thoughts
+Don't worry about your known count regressing or something along those lines.
+If a card doesn't survive this process its not worth SRSing. Add it again once it comes up in immersion.
+
+I do this every couple days. I feel confident in adding as many cards as I want now, knowing that i can just sieve them out easily if they don't stick.
