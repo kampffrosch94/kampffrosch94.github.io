@@ -57,9 +57,7 @@ No. It just won't show up in your reviews until a deck containig it is added aga
 ## What does abandoning do? {#what-does-abandoning-do}
 
 -   Takes all currently due cards (with the due + failure state) and inserts an
-
-abandoned marker into their history.
-
+    abandoned marker into their history.
 -   They will be treated is if their history was reset for all purposes.
 
 
@@ -92,4 +90,4 @@ No. Best make a FORQ deck instead. This means putting a deck at the top of your 
 -   lots of people that use jpdb use it
 -   it can feel very punishing if you are not consistent with it
 -   whatever you do don't rush into adding lots of cards, its even worse than
-    (old) anki with overwhelming people
+    (old) anki with overwhelming peop
