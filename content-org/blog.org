@@ -301,7 +301,7 @@ official [[https://jpdb.io/faq][FAQ]] once. They explain a lot.
 - Its how much of the vocab in the deck you know weighted by the amount of occurences.
 - AAABB <- if you know A but not B its 60% coverage
 ** Why do nothing and something give me the same 2min interval?
-- After a failure (nothing/something) you won't a review interval but a failure
+- After a failure (nothing/something) you won't get a review interval but a failure
   interval instead (2min default)
 - Only after getting the card correct once will its review be scheduled by the scheduler again.
 ** What coverage to go for

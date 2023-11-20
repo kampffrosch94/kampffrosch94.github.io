@@ -22,7 +22,7 @@ official [FAQ](https://jpdb.io/faq) once. They explain a lot.
 
 ## Why do nothing and something give me the same 2min interval? {#why-do-nothing-and-something-give-me-the-same-2min-interval}
 
--   After a failure (nothing/something) you won't a review interval but a failure
+-   After a failure (nothing/something) you won't get a review interval but a failure
     interval instead (2min default)
 -   Only after getting the card correct once will its review be scheduled by the scheduler again.
 
@@ -90,4 +90,4 @@ No. Best make a FORQ deck instead. This means putting a deck at the top of your 
 -   lots of people that use jpdb use it
 -   it can feel very punishing if you are not consistent with it
 -   whatever you do don't rush into adding lots of cards, its even worse than
-    (old) anki with overwhelming peop
+    (old) anki with overwhelming people
