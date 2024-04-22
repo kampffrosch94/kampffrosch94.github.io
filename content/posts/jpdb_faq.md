@@ -65,7 +65,7 @@ No. It just won't show up in your reviews until a deck containig it is added aga
 
 -   There is a button for that at the bottom of <https://jpdb.io/learn>
 
-{{< figure src="/images/topdeck.png" >}}
+{{< figure src="/ox-hugo/2023-07-04_15-03-56_screenshot.png" >}}
 
 
 ## Can Kanji cards be marked as known? {#can-kanji-cards-be-marked-as-known}
