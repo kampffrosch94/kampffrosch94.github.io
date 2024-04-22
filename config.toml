@@ -4,7 +4,31 @@ title = "Kampffrosch's blog"
 
 [module]
   [[module.imports]]
-    path = "github.com/AmazingRise/hugo-theme-diary"
+    path = "github.com/adityatelange/hugo-PaperMod"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[params]
+  author = "Kampffrosch"
+  DateFormat = "2006-01-02"
+  defaultTheme = "auto"
+  ShowCodeCopyButtons = true
+  #ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  #UseHugoToc = true
+  disableSpecial1stPost = true
+  disableScrollToTop = true
+  showtoc = true
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
