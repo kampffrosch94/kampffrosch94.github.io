@@ -8,7 +8,7 @@
     in {
       devShells = forAllSystems (pkgs: {
         default = pkgs.mkShell {
-          buildInputs = with pkgs; [ hugo go];
+          buildInputs = with pkgs; [ hugo go just];
         };
       });
     };
