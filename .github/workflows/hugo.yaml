@@ -14,9 +14,10 @@ jobs:
         nix develop --command hugo
         touch public/.nojekyll
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v4
       with:
           path: ./public
+	  name: github-pages
 
 
   # Deploy job
