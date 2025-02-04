@@ -35,11 +35,15 @@ title = "Kampffrosch's blog"
 
 
 [menus]
-  [[menus.main]]
-    name = 'categories'
-    pageRef = '/categories/'
-    weight = 10
-  [[menus.main]]
-    name = 'tags'
-    pageRef = '/tags/'
-    weight = 20
+[[menus.main]]
+name = '📚 categories'
+pageRef = '/categories/'
+weight = 10
+[[menus.main]]
+name = '🔖 tags'
+pageRef = '/tags/'
+weight = 20
+[[menus.main]]
+name = '📜 feed'
+url = '/index.xml'
+weight = 30
