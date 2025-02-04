@@ -32,3 +32,14 @@ title = "Kampffrosch's blog"
   threshold = 0.4
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
+
+
+[menus]
+  [[menus.main]]
+    name = 'categories'
+    pageRef = '/categories/'
+    weight = 10
+  [[menus.main]]
+    name = 'tags'
+    pageRef = '/tags/'
+    weight = 20

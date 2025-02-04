@@ -1,6 +1,7 @@
 +++
 title = "Japanese in 2024"
 date = 2025-02-04T09:04:00+01:00
+tags = ["jlpt"]
 categories = ["japanese"]
 draft = false
 +++
