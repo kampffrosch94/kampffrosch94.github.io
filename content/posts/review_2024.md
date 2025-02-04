@@ -1,6 +1,8 @@
 +++
 title = "Japanese in 2024"
-draft = true
+date = 2025-02-04T09:04:00+01:00
+categories = ["japanese"]
+draft = false
 +++
 
 This year I decided to take the JLPT N1 in December.
