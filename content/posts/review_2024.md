@@ -7,7 +7,7 @@ draft = false
 +++
 
 This year I decided to take the JLPT N1 in December.
-To prepare I decided to read one hundred books, but that did not happen of course 😄
+To prepare I planned to read one hundred books, but that did not happen of course 😄
 
 
 ## Books and Audiobooks {#books-and-audiobooks}
