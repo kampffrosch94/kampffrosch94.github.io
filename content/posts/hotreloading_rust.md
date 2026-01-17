@@ -24,7 +24,8 @@ Unlike a plugin system it is strictly a dev tool.
 
 Usually rust game devs limit their hotreloading to data files.
 This is pretty useful already!
-It lets one reload graphic assets, shaders, configuration files and even scripts while the game is running.
+It lets one reload graphic assets, shaders, configuration files and even scripts without
+restarting or recompiling.
 
 Out of these hotreloading scripts is the most general solution.
 Yet it comes with significant costs.
