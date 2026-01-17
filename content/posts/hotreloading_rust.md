@@ -631,10 +631,11 @@ development, but might be weird for players) and think about versioning and back
 compatibility.
 
 The hotreloading demo I showed before still effectively looks the same with the last
-changes. So instead of another video have a screenshot of the game project I develop using
+changes. So instead have a video of the game project I develop using
 this flavor of hotreloading:
 
-{{< figure src="/ox-hugo/hotreloaded_game.webp" >}}
+<video width="100%" controls><source src="/ox-hugo/hotreloaded_game.mp4" type="video/mp4">
+Your browser does not support the video tag.</video>
 
 
 ## Miscellaneous tips and observations {#miscellaneous-tips-and-observations}
